@@ -1,0 +1,495 @@
+fileFormatVersion: 2
+guid: eb6243fd4ac9f47af8a6059e407f6c5e
+ModelImporter:
+  serializedVersion: 26
+  internalIDToNameTable: []
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade01
+    second: {fileID: 2100000, guid: 09c5ed18716634aff8d532a679c438f7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade02
+    second: {fileID: 2100000, guid: 097bf9966a0b74ad987f3591007b2bef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade03
+    second: {fileID: 2100000, guid: 71edd2995f7294a1f81c1d6721e51c34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade04
+    second: {fileID: 2100000, guid: 2682633bc5e084b9ba66a90757e6d7be, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade05
+    second: {fileID: 2100000, guid: 7912f2a07f1284e3f82fcd7ebcee417a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade06
+    second: {fileID: 2100000, guid: 8d46f94d6d53d4e9d9868882f53ce487, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade07
+    second: {fileID: 2100000, guid: 2aae6a4f50e054e87b047c58eca47418, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade08
+    second: {fileID: 2100000, guid: 321f316b763614abfbd6e4fd65e36f73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade09
+    second: {fileID: 2100000, guid: 67079d6c5693b4ca486a8f9090dd5150, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade10
+    second: {fileID: 2100000, guid: 5619733af866343cea2c1eede4e129f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade11
+    second: {fileID: 2100000, guid: f3189e1d18c04459ba9c3e6fd7be92b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade12
+    second: {fileID: 2100000, guid: 217baf5d4d94f4553b1aabc272155e55, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade13
+    second: {fileID: 2100000, guid: 98bca0b7610da48d6a47a8a1cf31d0f5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade14
+    second: {fileID: 2100000, guid: 66671da1203bb44ac8ccc8b7ab76aa13, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade15
+    second: {fileID: 2100000, guid: a49eecc48a6b64ee8bced71da11a4d9d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade16
+    second: {fileID: 2100000, guid: a313cc7a525874d9dabcd20ee14af7c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade17
+    second: {fileID: 2100000, guid: 6ec2ef4c004e64585af5172932dd106c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade18
+    second: {fileID: 2100000, guid: 830ee9d2a50ee42aaaaef6896bf97adc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade19
+    second: {fileID: 2100000, guid: 5a03ed5320aac404f96da2830d4d9cf3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Blade20
+    second: {fileID: 2100000, guid: 28aba298cd3534c0dbe899fb36d8f91a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle01
+    second: {fileID: 2100000, guid: 0b1657229093d4c76b5e646d01a4e4ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle02
+    second: {fileID: 2100000, guid: 7d47bf5dc43504017a7f261514c65557, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle03
+    second: {fileID: 2100000, guid: a8f6214db59954558953d943f81359c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle04
+    second: {fileID: 2100000, guid: 6c5f9b9eb82de4c3cbfc5e10e169b1ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle05
+    second: {fileID: 2100000, guid: 618ebc2a854d84914bd5d85d4394552c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle06
+    second: {fileID: 2100000, guid: d5720cc512b6145ce8e62943e6b9ac07, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle07
+    second: {fileID: 2100000, guid: 9c7dbb2909af8441f979811610c2074b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle08
+    second: {fileID: 2100000, guid: 6be458267e8b340a486a72c17dbb9ff4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle09
+    second: {fileID: 2100000, guid: 669fb84a410e446b4a551f50840ce817, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle10
+    second: {fileID: 2100000, guid: 68b937515283040d1bb71017a4bb6dd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle11
+    second: {fileID: 2100000, guid: 87985211c13f744349aab2f5530f35b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle12
+    second: {fileID: 2100000, guid: 0de099060087c41978c5d99ebab39b59, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle13
+    second: {fileID: 2100000, guid: 0033f711206d9447e86782d088f468af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle14
+    second: {fileID: 2100000, guid: 7e0de3c48ea8f4d95a2ef6b5d6cb62db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle15
+    second: {fileID: 2100000, guid: f9a90b767727840548de617861cc487e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle16
+    second: {fileID: 2100000, guid: ce5e60c8513ef4e51b6b350d3f25c0a3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle17
+    second: {fileID: 2100000, guid: 58476e032558b4834a5335e6566e5424, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle18
+    second: {fileID: 2100000, guid: 124ac60b888b64e2cbbcd2099322964e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle19
+    second: {fileID: 2100000, guid: 205dfbad882b34160b3da73dff269965, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Texture_Handle20
+    second: {fileID: 2100000, guid: 39a22633fbdbd43baaef814ba6633e6a, type: 2}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife01_Blade
+    second: {fileID: 2800000, guid: 270b531f55c59490ba5aec88a3d7d6a1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife01_Handle
+    second: {fileID: 2800000, guid: 25e93f4519773471189c453ebbad314a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife02_Blade
+    second: {fileID: 2800000, guid: 3338813a2b21545fbaae8f3ed4dd172e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife02_Handle
+    second: {fileID: 2800000, guid: 0b82e745dc0e1405a8f2c4c290dd8688, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife03_Blade
+    second: {fileID: 2800000, guid: 680ebe349fad7499c8ea2d61187c1193, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife03_Handle
+    second: {fileID: 2800000, guid: e0e1dc96a3a6c4afb9e9b9fdbf5cd677, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife04_Blade
+    second: {fileID: 2800000, guid: a28cfd9aac9ef4ebe853ba0f623765a9, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife04_Handle
+    second: {fileID: 2800000, guid: 572cb214631854ab7b47f235d2b988db, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife05_Blade
+    second: {fileID: 2800000, guid: 3b1d9be303e2742adb65fc759a9a10a5, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife05_Handle
+    second: {fileID: 2800000, guid: fb7d1ad78f27f4453aec85ebf76745f2, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife06_Blade
+    second: {fileID: 2800000, guid: 0d5cf9562056e4fd4bf59cc6be07fe7b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife06_Handle
+    second: {fileID: 2800000, guid: 06ec03dc22eda4828bb606804f65d476, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife07_Blade
+    second: {fileID: 2800000, guid: 07b4eb43a48fe42ea9eaeab0d398e942, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife07_Handle
+    second: {fileID: 2800000, guid: cb2f8541c9c3b48e4b79eb39c1f666dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife08_Blade
+    second: {fileID: 2800000, guid: 898c7ce5f0ef448a691b5e7b3cb02934, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife08_Handle
+    second: {fileID: 2800000, guid: f49336ac65b7a40daa2fa76264abd3ac, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife09_Blade
+    second: {fileID: 2800000, guid: 971efce9238e54c95a84bc448c61a711, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife09_Handle
+    second: {fileID: 2800000, guid: ba1d23d7d99574e2db6e2c93789bdac7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife10_Blade
+    second: {fileID: 2800000, guid: f1f82991fa7374d81a010644777df9a4, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife10_Handle
+    second: {fileID: 2800000, guid: 2211045a58a6840ac9f2af25c42ef085, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife11_Blade
+    second: {fileID: 2800000, guid: e911b21b0a6534ee29097a21e9a0e8de, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife11_Handle
+    second: {fileID: 2800000, guid: 265f9e63b33c047e0be03c53206fb5a7, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife12_Blade
+    second: {fileID: 2800000, guid: bb20786a6c9b448238fd02a379c9a99e, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife12_Handle
+    second: {fileID: 2800000, guid: cc2926163bbd748ce8a0bf4312a756da, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife13_Blade
+    second: {fileID: 2800000, guid: 85013d24f49be4ced84bbc1fbbc104d1, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife13_Handle
+    second: {fileID: 2800000, guid: c0feb08191eab408692d163a30ea75df, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife14_Blade
+    second: {fileID: 2800000, guid: 5d3d6e38c4972496796cbc10af11af26, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife14_Handle
+    second: {fileID: 2800000, guid: 57f8bddac94a64a2a8c66764ebaa517b, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife15_Blade
+    second: {fileID: 2800000, guid: 15bf45197f83c4f5b868f93d9b5a89e8, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife15_Handle
+    second: {fileID: 2800000, guid: 2b4a1ce4cc17e4ed185574237621b8e6, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife16_Blade
+    second: {fileID: 2800000, guid: f040dbc65043940bbbdcba368cc63dd3, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife16_Handle
+    second: {fileID: 2800000, guid: 21acf83f28c4f47f188b1be5de930458, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife17_Blade
+    second: {fileID: 2800000, guid: b28fd347d8e2245a6804fad85867429a, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife17_Handle
+    second: {fileID: 2800000, guid: 6d6542183ec9d42f1a3e30e457ecde0c, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife18_Blade
+    second: {fileID: 2800000, guid: a42c677d7c04a4359a81a471cd798152, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife18_Handle
+    second: {fileID: 2800000, guid: d6d5528efe7f64123bea4ecddaec66ec, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife19_Blade
+    second: {fileID: 2800000, guid: 8fb5f0445e19440539a07139246586dd, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife19_Handle
+    second: {fileID: 2800000, guid: b7cceb9a39124484abd54da195f08244, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife20_Blade
+    second: {fileID: 2800000, guid: 7450a3d84cf1c4ff495d8314ee2521cb, type: 3}
+  - first:
+      type: UnityEngine:Texture2D
+      assembly: UnityEngine.CoreModule
+      name: Knife20_Handle
+    second: {fileID: 2800000, guid: 4aa84065b53784338bb543d77460bc14, type: 3}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 0
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 1
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
